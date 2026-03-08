@@ -1,0 +1,14 @@
+# Runtime / local data
+production-ready/apps/api/crm.db
+production-ready/apps/api/__pycache__/
+
+# Python
+*.pyc
+__pycache__/
+
+# Node
+node_modules/
+dist/
+
+# Env
+.env
