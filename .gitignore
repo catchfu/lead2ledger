@@ -1,6 +1,6 @@
 # Runtime / local data
-production-ready/apps/api/crm.db
-production-ready/apps/api/__pycache__/
+apps/api/crm.db
+apps/api/__pycache__/
 
 # Python
 *.pyc
